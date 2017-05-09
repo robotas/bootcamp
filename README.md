@@ -1,1 +1,2 @@
-reset staging
+laba laba ddd
+vykdomas pakeitimas
